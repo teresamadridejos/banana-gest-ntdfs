@@ -2,7 +2,9 @@
 Proyecto Banana Gest realizado por Nuria, Sebas, Fede, Deniz y Teresa.
 
 
-PROTOTIPO BAJO NIVEL
+----------------------------------------------------------------------------------
+
+**PROTOTIPO BAJO NIVEL**
 link: https://www.figma.com/file/OyXVdzDClL1jExMT8suI4Z/Gest-Banana?node-id=18-93
 
 Diseño esquematizado del contenido básico de cada pantalla.
@@ -15,7 +17,7 @@ En ambos casos tenemos un menú de ajustes y log out.
 
 ![PROTOTIPO BAJO NIVEL](https://raw.githubusercontent.com/teresamadridejos/banana-gest-ntdfs/main/banana-gest-fotos/1.png)
 
-PERFIL RRHH
+**PERFIL RRHH**
 (Acceso Departamento de RRHH)
 
 La búsqueda se puede realizar por varias categorías:
@@ -29,7 +31,7 @@ En todas las búsquedas tenemos opción de contacto con los empleados.
 ![PERFIL RRHH](https://raw.githubusercontent.com/teresamadridejos/banana-gest-ntdfs/main/banana-gest-fotos/2.png)
 ![PERFIL RRHH](https://raw.githubusercontent.com/teresamadridejos/banana-gest-ntdfs/main/banana-gest-fotos/3.png)
 
-PERFIL EMPLEADO
+**PERFIL EMPLEADO**
 (Acceso resto empleados)
 
 ![PERFIL EMPLEADO](https://raw.githubusercontent.com/teresamadridejos/banana-gest-ntdfs/main/banana-gest-fotos/4.png)
@@ -39,7 +41,9 @@ PERFIL EMPLEADO
     ⁃    Formaciones (introducción manual de las adquiridas post contratación)
     ⁃    Skills (introducción mediante etiquetas divididas en soft y hard)
 
-WIREFRAME
+----------------------------------------------------------------------------------
+
+**WIREFRAME**
 link: https://www.figma.com/file/OyXVdzDClL1jExMT8suI4Z/Gest-Banana?node-id=12-4 
 
 Diseñamos dos páginas de inicio de sesión para nuestra aplicación, una para recursos humanos y otra para empleados. Comenzamos con nuestra interfaz de empleado. Al iniciar sesión, tenemos la página principal donde los empleados pueden ver sus calendarios, proyectos, así como interfaces de formaciones y habilidades. En el lado izquierdo, posicionamos nuestra área personal con una foto de perfil, configuraciones y un botón de cierre de sesión. También agregamos botones de página de inicio y atrás para que sean fácilmente accesibles. Hay un botón de contacto para contactar directamente con recursos humanos. 
@@ -59,22 +63,25 @@ Seleccionando uno de los filtros e ingresando, abra la página de filtro relevan
 Si usamos el filtro de proyectos, podemos buscar por proyecto. Asimismo, el filtro de departamentos nos muestra información de los empleados ordenados por departamento. Finalmente, el filtro de habilidades permite buscar por las habilidades del empleado ingresadas a nuestra aplicación. 
 
 
+----------------------------------------------------------------------------------
 
-CARTA GRÁFICA
+**CARTA GRÁFICA**
 
 ![CARTA GRÁFICA](https://raw.githubusercontent.com/teresamadridejos/banana-gest-ntdfs/main/banana-gest-fotos/10.jpg)
 ![CARTA GRÁFICA](https://raw.githubusercontent.com/teresamadridejos/banana-gest-ntdfs/main/banana-gest-fotos/11.jpg)
 ![CARTA GRÁFICA](https://raw.githubusercontent.com/teresamadridejos/banana-gest-ntdfs/main/banana-gest-fotos/12.jpg)
 
 
+----------------------------------------------------------------------------------
 
-PROTOTIPO ALTO NIVEL
+
+**PROTOTIPO ALTO NIVEL**
 
 Pantalla de Inicio: En donde el usuario se debe loguear ingresando el email y la contraseña y el perfil segun le corresponda, ya sea personal de RRHH como personal de otro departamento.
 
 ![PROOTIPO ALTO NIVEL](https://raw.githubusercontent.com/teresamadridejos/banana-gest-ntdfs/main/banana-gest-fotos/13.png)
 
-PERFIL EMPLEADO
+**PERFIL EMPLEADO**
 (Acceso resto de empleados)
 
 ![PROOTIPO ALTO NIVEL](https://raw.githubusercontent.com/teresamadridejos/banana-gest-ntdfs/main/banana-gest-fotos/14.png)
@@ -94,7 +101,7 @@ Al ingresar dentro de un proyecto, podrá visualizar los integrantes, el status,
 
 En el caso de ser necesario, el empleado se puede contactar de manera directa con el departamento de RRHH, ya sea por cuestiones personales como solicitud de vacaciones, cambio de equipo y demás.
 
-PERFIL RRHH
+**PERFIL RRHH**
 (Acceso Departamento de RRHH)
 
 ![PROOTIPO ALTO NIVEL](https://raw.githubusercontent.com/teresamadridejos/banana-gest-ntdfs/main/banana-gest-fotos/17.png)
